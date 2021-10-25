@@ -58,4 +58,4 @@
 </details>
 
 [twitter]: https://twitter.com/RachelXRei
-[instagram]: https://www.instagram.com/_anmayor_
+[instagram]: https://www.instagram.com/_anreimayor_
