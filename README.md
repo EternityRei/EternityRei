@@ -1,6 +1,6 @@
 ### Hello everybody, I'm Anastasia - aka [EternityRei or RachelXRei][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RachelXRei)
+[![Twitter Follow](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40RachelXRei&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRachelXRei)](https://twitter.com/RachelXRei)
 
 ## I'm daughter, lovely girlfriend and Java developer!
 - 🔭 I'm purposeful, stubborn, self-developing person
