@@ -50,6 +50,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+- [Libgdx for Java Games]: (https://github.com/libgdx)
+- [Game Off 2021]: (https://itch.io/jam/game-off-2021)
+  
 
 <!--END_SECTION:activity-->
 
