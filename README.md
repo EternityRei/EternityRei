@@ -8,7 +8,7 @@
 - 🧭 I'm in Java for 1 year and now I'm learning JavaFX
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Create my own application
-- ⚡ Fun fact: I love to listening the music everytime I'm free, dance, draw, improve English skills
+- ⚡ Fun fact: I love to listening the music when I'm free, dancing, drawing, improving English skills
 
 ### Connect with me:
 
