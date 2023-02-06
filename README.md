@@ -61,4 +61,4 @@
 </details>
 
 [twitter]: https://twitter.com/RachelXRei
-[instagram]: https://www.instagram.com/_anreimayor_
+[instagram]: https://www.instagram.com/_mjspoon
