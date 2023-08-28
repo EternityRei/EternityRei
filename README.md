@@ -57,5 +57,5 @@
 </details>
 
 [twitter]: https://twitter.com/RachelXRei
-[instagram]: https://www.instagram.com/_mjspoon
+[instagram]: https://www.instagram.com/eternity_rei
 [epam]: https://www.epam.com/
