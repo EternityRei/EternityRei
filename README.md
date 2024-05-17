@@ -2,16 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow%20%40RachelXRei&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRachelXRei)](https://twitter.com/RachelXRei)
 
-## Fullstack Developer
--  😎 I'm purposeful, stubborn, self-developing, collaborative, adventurous, goal-oriented, fun-loving person
--  💻 I’m currently working in [EPAM][epam]
--  ☕️ 1.5+ years of experience in Java
--  🐍 1 year of experience in Python
-
-### Connect with me:
-
-[<img align="left" alt="EternityRei | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="EternityRei | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## ML/Fullstack Developer 
+-  😎 I'm a purposeful, stubborn, self-developing, collaborative, adventurous, goal-oriented, fun-loving person
+-  ☕️ 2.5+ years of experience in Java
+-  🐍 2+ years of experience in Python
 
 <br />
 
